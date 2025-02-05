@@ -16,3 +16,7 @@ As a software engineering student, I find this topic fascinating because it high
 
 This article serves as a great reminder that while AI can streamline many aspects of development, creativity, problem-solving, and human intuition remain irreplaceable in software engineering.
 
+## Daniel Brito Comment
+This is a very interesting article that deals with the future of sodtware and AI as well as what it means for developers. 
+
+I think it is an interesting read considering we as students are entering our careers soon.
